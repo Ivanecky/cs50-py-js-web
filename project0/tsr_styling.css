@@ -1,0 +1,8 @@
+.headerImage {
+  height: 100%;
+  min-height: 500px;
+  background-image: url("https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2017/06/07/Josh_prelims_NCAAOTF.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
