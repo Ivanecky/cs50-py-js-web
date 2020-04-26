@@ -1,8 +1,39 @@
-.headerImage {
-  height: 100%;
-  min-height: 500px;
-  background-image: url("https://d3el53au0d7w62.cloudfront.net/wp-content/uploads/2017/06/07/Josh_prelims_NCAAOTF.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+.mainHeader {
+    background-color: deepskyblue;
+}
+
+.blueReg, .yellowReg, .redReg, .greenReg {
+    border-radius: 3px;
+    opacity: 0.9;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+.blueReg {
+    background-color: dodgerblue;
+}
+
+.redReg {
+    background-color: firebrick;
+}
+
+.yellowReg {
+    background-color: gold;
+}
+
+.greenReg {
+    background-color: green;
+}
+
+.bioTable{
+    background-color: lightslategray;
+    border: 1px solid black;
+    padding: 5px;
+    font-style: oblique;
+}
+
+.bioTable > tr {
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 5px;
 }
