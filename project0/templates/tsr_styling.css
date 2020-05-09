@@ -1,0 +1,39 @@
+.mainHeader {
+    background-color: deepskyblue;
+}
+
+.blueReg, .yellowReg, .redReg, .greenReg {
+    border-radius: 3px;
+    opacity: 0.9;
+    font-style: oblique;
+    color: whitesmoke;
+}
+
+.blueReg {
+    background-color: dodgerblue;
+}
+
+.redReg {
+    background-color: firebrick;
+}
+
+.yellowReg {
+    background-color: gold;
+}
+
+.greenReg {
+    background-color: green;
+}
+
+.bioTable{
+    background-color: lightslategray;
+    border: 1px solid black;
+    padding: 5px;
+    font-style: oblique;
+}
+
+.bioTable > tr {
+    background-color: lightgray;
+    border: 1px solid black;
+    padding: 5px;
+}
